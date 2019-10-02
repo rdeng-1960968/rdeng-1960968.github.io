@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Second Trail On HTML</title>
+    </head>
+    <body>
+        <h1>What Can We Expect From The Info Class</h1>
+        
+        <h2>An Interesting Professor</h2>
+        <p>I had one of my first class in UW with an interesting Professor
+        He is a teacher in the infomatics department and his way of
+        teaching the students has many similar ways as when I was in Agape.</p>
+
+
+        <h2>A Well Tempered TA</h2>
+        <p>She was the TA in the infomatic class and she is very patient with the studnets.
+        When I have problems in making html, She helped me out and get me into the right
+        track of becoming a newbee in the field of computer programming.</p>
+
+        <h3>Practice of Breaks</h3>
+        <p>The breaks seems really fun,<breaks>
+        I can play with it for the entire night,<breaks>
+        I think I can start to enter into the field of programming<breaks>
+        since I already have a glasses, <breaks>
+        and although my head itsn't bold yet, <breaks>
+        I think I might get an engineer hair style in the future.</p>
+
+
+</html>
+
